@@ -1,10 +1,12 @@
-# Power-BI
+﻿# Power-BI
 These are the projects I have worked on:
 1. Optimizing Sales & Operational Data of Retail Company: The objective is to analyze the sales and operational data of a retail company to identify trends, 
 measure performance, and uncover insights that can drive strategic decision-making. This analysis aims to optimize sales strategies, improve customer satisfaction, and enhance overall 
 business profitability.
 
-2. Coffee shop's sales operations: The objective is to enhance inventory management and promotional methods, it focuses on detecting sales trends, top-performing goods, and seasonal patterns. To better target marketing campaigns and foster client loyalty, it also seeks to improve customer insights.
+2. Coffee shop's sales operations: The objective is to enhance inventory management and promotional methods, it focuses on detecting sales trends, top-performing goods, and seasonal patterns. To better target marketing campaigns and foster client loyalty, it also seeks to improve customer insights.
+
+3.Supermarket Sales: Analysing supermarket sales data to uncover patterns in customer behaviour, product performance, and regional sales trends using advanced geospatial analysis, DAX calculations, and dynamic visualizations. This analysis aims to drive strategic decisions and enhance market competitiveness
  
 Sales Trends Analysis:
 Monthly Sales Trend: Plot total sales by month to identify seasonal trends and peak months.
