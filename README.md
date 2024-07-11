@@ -6,7 +6,7 @@ business profitability.
 
 2. Coffee shop's sales operations: The objective is to enhance inventory management and promotional methods, it focuses on detecting sales trends, top-performing goods, and seasonal patterns. To better target marketing campaigns and foster client loyalty, it also seeks to improve customer insights.
 
-3.Supermarket Sales: Analysing supermarket sales data to uncover patterns in customer behaviour, product performance, and regional sales trends using advanced geospatial analysis, DAX calculations, and dynamic visualizations. This analysis aims to drive strategic decisions and enhance market competitiveness
+3. Supermarket Sales: Analysing supermarket sales data to uncover patterns in customer behavior, product performance, and regional sales trends using advanced geospatial analysis, DAX calculations, and dynamic visualizations. This analysis aims to drive strategic decisions and enhance market competitiveness
  
 Sales Trends Analysis:
 Monthly Sales Trend: Plot total sales by month to identify seasonal trends and peak months.
