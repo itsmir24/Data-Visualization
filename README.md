@@ -18,8 +18,8 @@ Top Selling Products: Identify the best-selling products based on quantity and t
 Store Performance:
 Store Sales Comparison: Compare total sales and quantities sold across different stores.
 
-Geo-Spatial Analysis:
-TOPN Dynamic Ranking using Whatif Parameter:
+Geo-Spatial Analysis,
+TOPN Dynamic Ranking using What-If Parameter,
 Time-intelligence DAX: MTD, QTD, YTD, YOY, MOM
 
 Customer Behavior Analysis:
