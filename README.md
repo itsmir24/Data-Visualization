@@ -18,10 +18,15 @@ Top Selling Products: Identify the best-selling products based on quantity and t
 Store Performance:
 Store Sales Comparison: Compare total sales and quantities sold across different stores.
 
+Geo-Spatial Analysis:
+TOPN Dynamic Ranking using Whatif Parameter:
+Time-intelligence DAX: MTD, QTD, YTD, YOY, MOM
+
 Customer Behavior Analysis:
 Transaction Patterns: Analyze the number of transactions by date and time to understand customer buying behavior.
 Average Transaction Value: Calculate the average total bill per transaction to identify spending patterns.
 Sales Volume: Calculate the total quantity sold for each product and category.
+CLV: Calculate and evaluate Customer lifetime value
 
 Key Performance Indicators (KPIs):
 Total Sales: Display the total sales figure.
