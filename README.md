@@ -1,4 +1,4 @@
-﻿# Power-BI
+﻿# Data Visualization
 These are the projects I have worked on:
 1. **Optimizing Sales & Operational Data of Retail Company**: The objective is to analyze the sales and operational data of a retail company to identify trends, 
 measure performance, and uncover insights that can drive strategic decision-making. This analysis aims to optimize sales strategies, improve customer satisfaction, and enhance overall 
